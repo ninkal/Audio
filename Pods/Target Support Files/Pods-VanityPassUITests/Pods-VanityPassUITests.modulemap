@@ -1,0 +1,6 @@
+framework module Pods_VanityPassUITests {
+  umbrella header "Pods-VanityPassUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
